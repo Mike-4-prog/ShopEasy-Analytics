@@ -25,6 +25,7 @@ This project seeks to conduct a detailed marketing analytics to uncover insights
     - Creating suitable Measures for easy visualizations.
     - Designing and creating Interactive Dashboard.
 ### Key Performance Indicators (KPI)
+#### 1. Decreased Conversion Rates:
 
       
 
