@@ -9,6 +9,10 @@
 - [Actions And Recommendations](#actions-and-recommendations)
 ### Overview
 This project seeks to conduct a detailed marketing analytics to uncover insights into ShopEasy's reduced customer engagements,  conversion rates, and campaign performance metrics despite launching several new online marketing campaigns, in addition to actionable strategies for improved business performance and delivery.
+
+
+<img width="611" alt="OverviewDashboard" src="https://github.com/user-attachments/assets/09de384f-477e-4b32-9c14-0f850417c2f0" />
+
 ### Objectives
 #### Increase Conversion Rates:
 - Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
