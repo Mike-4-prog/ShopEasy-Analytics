@@ -46,8 +46,10 @@ This project seeks to conduct a detailed marketing analytics to uncover insights
       seasonal peaks.
     - January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion.
     - May experienced the lowest overall conversion rate at 4.3%, with no products standing out significantly in terms of conversion.
+      
 
       
+<img width="375" alt="Tabledasboard_dsb2" src="https://github.com/user-attachments/assets/7a5fdb3a-f92c-4541-90a8-32acaaca488f" />
 
 2. Customer Engagement:
     - Decline in overall social media engagement, with views dropping throughout the year.
