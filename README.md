@@ -53,6 +53,9 @@ This project seeks to conduct a detailed marketing analytics to uncover insights
     - clicks and likes were low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
     - Blog content drove the most views, especially in April and July, while social media and video content maintained steady but slightly lower engagement.
     - Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
+  
+      <img width="418" alt="Views-clicks-likes db" src="https://github.com/user-attachments/assets/c76876e3-b010-4104-bef8-c0ea9df2a187" />
+
 3. Customer Feedback Analysis:
     - Customer ratings did remain consistent, averaging around 3.7 throughout the year.
     - Though stable, the average rating was below the target of 4.0, suggesting a need for focused improvements in customer satisfaction, for products below 3,5.
@@ -60,6 +63,9 @@ This project seeks to conduct a detailed marketing analytics to uncover insights
     - Positive sentiment dominated with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment was present in 82 reviews.
     - The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive
       ones.
+
+      <img width="230" alt="customer_sentiment_db" src="https://github.com/user-attachments/assets/ff8620cf-496d-4486-ad35-937b5e546bc5" />
+
 ### Actions And Recommendations
 - Target High-Performing Product Categories: Focus marketing efforts on products with demonstrated high conversion rates, such as Kayaks, Ski Boots, and Baseball 
   Gloves. 
