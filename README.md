@@ -46,7 +46,9 @@ This project seeks to conduct a detailed marketing analytics to uncover insights
       seasonal peaks.
     - January recorded the highest overall conversion rate at 18.5%, driven significantly by the Ski Boots with a remarkable 150% conversion.
     - May experienced the lowest overall conversion rate at 4.3%, with no products standing out significantly in terms of conversion.
-2. Reduced Customer Engagement:
+    - <img width="337" alt="dasboard_table" src="https://github.com/user-attachments/assets/d841edf1-dcff-4bab-bfa7-1c446cb35081" />
+
+2. Customer Engagement:
     - Decline in overall social media engagement, with views dropping throughout the year.
     - clicks and likes were low compared to views, the click-through rate stands at 15.37%, meaning that engaged users are still interacting effectively.
     - Blog content drove the most views, especially in April and July, while social media and video content maintained steady but slightly lower engagement.
